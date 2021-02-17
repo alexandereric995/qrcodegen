@@ -22,7 +22,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-Copyright [2021 Alexander Anak Eric@Eric Lapin](https://www.facebook.com/alexandereric.on.fb/)
+   Copyright [2021 Alexander Anak Eric@Eric Lapin](https://www.facebook.com/alexandereric.on.fb/)
     
       FACT
    	1. No one care about the license.
@@ -35,6 +35,6 @@ Copyright [2021 Alexander Anak Eric@Eric Lapin](https://www.facebook.com/alexand
    
    [DEMO](https://alexandereric995.github.io/qrcodegen/)
    
-   Sincerely
-   ALEXANDER ANAK ERIC@ERIC LAPIN
-   TRAINEE, GLOW ACADEMY@GOVERMENT MALAYSIA
+   	Sincerely
+   	ALEXANDER ANAK ERIC@ERIC LAPIN
+   	TRAINEE, GLOW ACADEMY@GOVERMENT MALAYSIA
