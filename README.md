@@ -1,14 +1,16 @@
 # qrcodegen
-SAMPLE QR CODE GENERATOR
-		      I N F O R M A T I O N  C O N T R O L  T O O L
-                          M A L A Y S I A  T E C H N O L O G Y
-                            N O N H A L A L  S O F T W A R E
-     -----------------------------------------------------------------------
-                               HARAM HARAM SOFTWARE INC
 
-                                    L I C E N S E
+                                  L I C E N S E
                            Version 2.0, xx February 2021
                            By Alexander Eric@Eric Lapin
+			     HARAM HARAM SOFTWARE INC
+			   
+			      TOOLS INFORMATIONS
+	  * This tools was publish without any Halal Certification 
+	  * Category of tools: Non Halal Software Development
+	  * Any Software publish also not baptize from any church reverence
+	  * Sincerely, non-halal software writter, Alexander Eric.
+			  
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -194,7 +196,7 @@ SAMPLE QR CODE GENERATOR
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2021] [Alexander Anak Eric@Eric Lapin]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
