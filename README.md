@@ -1,17 +1,17 @@
 # MALAYSIA QR CODE GENERATOR
 
-        L I C E N S E
-        Version 2.0, xx February 2021
-        By Alexander Eric@Eric Lapin
-	HARAM HARAM SOFTWARE INC
+    L I C E N S E
+    Version 2.0, xx February 2021
+    By Alexander Eric@Eric Lapin
+    HARAM HARAM SOFTWARE INC
 			   
-	TOOLS INFORMATIONS
-	  * This tools was publish without any Halal Certification 
-	  * Category of tools: Non Halal Software Development
-	  * Any Software publish also not baptize from any church reverence
-	  * Sincerely, non-halal software writter, Alexander Eric.
+    TOOLS INFORMATIONS
+    	* This tools was publish without any Halal Certification 
+	* Category of tools: Non Halal Software Development
+	* Any Software publish also not baptize from any church reverence
+	* Sincerely, non-halal software writter, Alexander Eric.
 			  
-	APPENDIX: How to apply the Non-Halal Certificate License to your build.
+    APPENDIX: How to apply the Non-Halal Certificate License to your build.
 
       To apply the Non Halal Software Development License to your work, attach the following
       license file notice, with the fields enclosed by brackets "[]"
