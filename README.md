@@ -1,4 +1,4 @@
-# qrcodegen
+# MALAYSIA QR CODE GENERATOR
 
         L I C E N S E
         Version 2.0, xx February 2021
@@ -11,7 +11,7 @@
 	  * Any Software publish also not baptize from any church reverence
 	  * Sincerely, non-halal software writter, Alexander Eric.
 			  
-	APPENDIX: How to apply the Apache License to your work.
+	APPENDIX: How to apply the Non-Halal Certificate License to your build.
 
       To apply the Non Halal Software Development License to your work, attach the following
       license file notice, with the fields enclosed by brackets "[]"
@@ -22,7 +22,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [2021] [Alexander Anak Eric@Eric Lapin]
+Copyright [2021 Alexander Anak Eric@Eric Lapin](https://www.facebook.com/alexandereric.on.fb/)
     
       FACT
    	1. No one care about the license.
@@ -33,6 +33,7 @@
    	6. Fact, we dont really care.
    	7. If you think we care, read the above statement.
    
+   [DEMO](https://alexandereric995.github.io/qrcodegen/)
    
    Sincerely
    ALEXANDER ANAK ERIC@ERIC LAPIN
