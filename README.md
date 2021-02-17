@@ -11,18 +11,24 @@
 	* Any Software publish also not baptize from any church reverence
 	* Sincerely, non-halal software writter, Alexander Eric.
 			  
+    
+
+    
+
+# COPYRIGHT HARAM-HARAM SOFTWARE
+
     APPENDIX: How to apply the Non-Halal Certificate License to your build.
-
-      To apply the Non Halal Software Development License to your work, attach the following
-      license file notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
-# Copyright HARAM-HARAM SOFTWARE
+   
+    To apply the Non Halal Software Development License to your work, attach the following
+    license file notice, with the fields enclosed by brackets "[]"
+    replaced with your own identifying information. (Don't include
+    the brackets!)  The text should be enclosed in the appropriate
+    comment syntax for the file format. We also recommend that a
+    file or class name and description of purpose be included on the
+    same "printed page" as the copyright notice for easier
+    identification within third-party archives.
+    
+# MUST READ     
     FACT
    	1. No one care about the license.
    	2. But it just about either you do real copy paste or not.
