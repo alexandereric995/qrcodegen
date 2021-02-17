@@ -22,9 +22,8 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [2021 Alexander Anak Eric@Eric Lapin](https://www.facebook.com/alexandereric.on.fb/)
-    
-      FACT
+# Copyright HARAM-HARAM SOFTWARE
+    FACT
    	1. No one care about the license.
    	2. But it just about either you do real copy paste or not.
    	3. Dont Really Care.
@@ -32,9 +31,15 @@
    	5. Or you may build your own languages and format.
    	6. Fact, we dont really care.
    	7. If you think we care, read the above statement.
-   
-   [DEMO](https://alexandereric995.github.io/qrcodegen/)
-   
-   	Sincerely
+
+	Sincerely
    	ALEXANDER ANAK ERIC@ERIC LAPIN
    	TRAINEE, GLOW ACADEMY@GOVERMENT MALAYSIA
+
+ License by [Alexander Anak Eric@Eric Lapin](https://www.facebook.com/alexandereric.on.fb/)
+    
+     
+   
+ Click here to [DEMO](https://alexandereric995.github.io/qrcodegen/)
+   
+   	
